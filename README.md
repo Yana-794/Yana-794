@@ -70,21 +70,21 @@ Backend development  to build a full application development cycle.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yana-794&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yana-794&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)</div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
+<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
+<!-- BLOG-POST-LIST:END -->   
+<!-- 
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-<br/>  
+<br/>   -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Yana-794&&style=flat-square" align="center" />
@@ -97,4 +97,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
