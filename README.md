@@ -1,100 +1,146 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Yana
 
-### <div align="center">Yana — Frontend Developer</div>  
-  
+### Fullstack Developer | System Analyst
 
-- ### 🎯 Specialization
-React & TypeScript (core stack)
-*Focus on:* clean UI, smooth UX, maintainable code.  
-  
+Building web applications, designing system architecture and translating business requirements into technical solutions.
 
-- ### 🎓 Parallel Education
-Information Security (student) 
-*Focus on:* secure development, code analysis for vulnerabilities.  
-  
+Focused on **Go**, **React**, **TypeScript**, **REST API** and **System Analysis**.
 
-- ### 📈 I'm currently studying
-Backend development  to build a full application development cycle.  
-  
+[![GitHub](https://img.shields.io/badge/GitHub-Yana--794-181717?style=for-the-badge&logo=github)](https://github.com/Yana-794)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yannatoo)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cernyyana@gmail.com)
 
-- *🍀 Thanks for stopping by! I'd be happy to hear from you and make new connections.*
-  
-  
+---
 
-<br/>  
+## About
 
+I am a Fullstack Developer interested in **system analysis, software architecture and product-oriented development**.
 
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
+My interests combine frontend and backend development with requirements engineering, system design and technical solution development.
 
-<div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-</div>
+I enjoy understanding business needs, designing application logic and transforming requirements into maintainable software solutions.
 
-<!-- </td><td valign="top" width="33%">
+My professional interests include:
 
+- Fullstack web application development.
+- Backend architecture and REST API design.
+- System analysis and requirements engineering.
+- Database design and data modeling.
+- Business process modeling.
+- Frontend and backend integration.
+- Product-oriented software development.
 
+---
 
-</td><td valign="top" width="33%"> -->
+## Technical Skills
 
+### Backend Development
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
-</td></tr></table>  
+- Go
+- Gin
+- REST API
+- Backend application development
+- API design and integration
 
-<br/>  
+### Frontend Development
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/Yana-794" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Next.js
+- TanStack Query
+- Tailwind CSS
+- HTML5
+- CSS3
 
-<br/>  
+### Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## Github Stats  
-[![Yana](https://github-readme-activity-graph.vercel.app/graph?username=Yana-794&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- PostgreSQL
+- Redis
+- SQL
+- Database design
+- Data modeling
 
-<br/>  
+### Tools & Infrastructure
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-<!-- ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
-<!-- BLOG-POST-LIST:END -->   
-<!-- 
-<br/>  
+- Docker
+- Git
+- GitHub
+- GitLab
+- Postman
+- Swagger / OpenAPI
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+---
 
-<br/>   -->
+## Engineering & System Analysis
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Yana-794&&style=flat-square" align="center" />
-</div>  
-  
+Interested in the full software development lifecycle — from understanding business requirements to designing and implementing technical solutions.
 
-<br/>  
+### Software Development
 
+- Frontend and backend application development.
+- REST API design and integration.
+- Backend business logic implementation.
+- Database design and SQL.
+- Frontend and backend integration.
+- Application architecture and modular design.
 
-<br />
+### System Analysis
 
-----
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
+- Functional and non-functional requirements analysis.
+- Requirements specification.
+- User Stories and Use Cases.
+- BPMN business process modeling.
+- UML diagrams.
+- API documentation.
+- Data modeling.
+- Business logic and user scenario design.
+- Technical documentation.
+
+---
+
+## Engineering Principles
+
+- Understand the problem before writing code.
+- Design solutions around real user needs.
+- Keep business logic clear and maintainable.
+- Build reusable and modular components.
+- Prefer explicit APIs and predictable behavior.
+- Consider the entire system, not just individual features.
+- Combine technical implementation with analytical thinking.
+- Continuously improve engineering skills.
+
+---
+
+## Let's Connect
+
+- **GitHub:** [Yana-794](https://github.com/Yana-794)
+- **Telegram:** [@yannatoo](https://t.me/yannatoo)
+- **Email:** [cernyyana@gmail.com](mailto:cernyyana@gmail.com)
+
+---
+
+*Building reliable software through engineering and analytical thinking.*
