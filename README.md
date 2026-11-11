@@ -32,66 +32,46 @@ My professional interests include:
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-### Backend Development
+### Backend and core technologies
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat&logo=go&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
-- Go
-- Gin
-- REST API
-- Backend application development
-- API design and integration
-
-### Frontend Development
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- React
-- TypeScript
-- JavaScript
-- Vite
-- Next.js
-- TanStack Query
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Databases
+### Databases, cache and storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-- PostgreSQL
-- Redis
-- SQL
-- Database design
-- Data modeling
+- **PostgreSQL** — relational database management and SQL.
+- **Redis** — in-memory data storage and caching.
 
-### Tools & Infrastructure
+### API development and documentation
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+
+### Infrastructure and tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-
-- Docker
-- Git
-- GitHub
-- GitLab
-- Postman
-- Swagger / OpenAPI
 
 ---
 
@@ -137,9 +117,9 @@ Interested in the full software development lifecycle — from understanding bus
 
 ## Let's Connect
 
-- **GitHub:** [Yana-794](https://github.com/Yana-794)
-- **Telegram:** [@yannatoo](https://t.me/yannatoo)
-- **Email:** [cernyyana@gmail.com](mailto:cernyyana@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Yana--794-181717?style=flat&logo=github)](https://github.com/Yana-794)
+[![Telegram](https://img.shields.io/badge/Telegram-@yannatoo-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yannatoo)
+[![Email](https://img.shields.io/badge/Email-cernyyana%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cernyyana@gmail.com)
 
 ---
 
